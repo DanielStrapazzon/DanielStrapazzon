@@ -1,4 +1,3 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/29561018/PROFILE_README.md)
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=5b8cf7&height=120&section=header)](https://github.com/DanielStrapazzon)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5b8cf7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Strapazzon;I'm+a+Computer+Engineering+Student;Dev+·+Maker+·+IoT+Enthusiast;Be+Welcome!+%3A))](https://git.io/typing-svg)
