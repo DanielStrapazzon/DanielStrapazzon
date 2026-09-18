@@ -66,8 +66,8 @@ My goal is to go beyond just writing code — to truly understand concepts, solu
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanielStrapazzon&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=5b8cf7&ring=5b8cf7&fire=5b8cf7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5b8cf7&sideLabels=5b8cf7&dates=888888)](https://github.com/DanielStrapazzon)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielStrapazzon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5b8cf7&icon_color=5b8cf7&text_color=FFFFFF)](https://github.com/DanielStrapazzon)
+[![GitHub Stats](https://github-readme-stats-five-chi-62.vercel.app/api?username=DanielStrapazzon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5b8cf7&icon_color=5b8cf7&text_color=FFFFFF)](https://github.com/DanielStrapazzon)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielStrapazzon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5b8cf7&text_color=FFFFFF)](https://github.com/DanielStrapazzon)
+[![Top Languages](https://github-readme-stats-five-chi-62.vercel.app/api/top-langs/?username=DanielStrapazzon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5b8cf7&text_color=FFFFFF)](https://github.com/DanielStrapazzon)
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=5b8cf7&height=120&section=footer)](https://github.com/DanielStrapazzon)
